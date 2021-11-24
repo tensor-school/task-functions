@@ -22,7 +22,7 @@ npm install
 1. `higherThan(num)` &ndash; отбирает все числа больше `num`
 2. `hasSubstring(substr)` &ndash; отбирает из массива все строки, включающие в себя `substr`. Регистр важен, т.е. строка `ABC` не включает в себя подстроку `bc`.
 
-3. Напишите функцию `multiply(num)`, которая работает вот так:
+1. Напишите функцию `multiply(num)`, которая работает вот так:
 
 ```javascript
 console.log(multiply(5)(10));
